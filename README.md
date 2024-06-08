@@ -1,16 +1,24 @@
-# uts_080
+# Aplikasi Profil Fakultas Ilmu Sosial dan Ilmu Politik UPN VETERAN Jawa Timur
 
-A new Flutter project.
+Selamat datang di repositori proyek Aplikasi Profil Fakultas Ilmu Sosial dan Ilmu Politik UPN VETERAN Jawa Timur. Proyek ini merupakan bagian dari mata kuliah Pemrograman Mobile di [UPN VETERAN Jawa Timur](https://www.upnjatim.ac.id).
 
-## Getting Started
+## Deskripsi Proyek
 
-This project is a starting point for a Flutter application.
+Aplikasi ini bertujuan untuk memberikan informasi lengkap mengenai fakultas Ilmu Sosial dan Ilmu Politik yang ada di UPN VETERAN Jawa Timur. Pengguna dapat mengakses informasi tentang profil fakultas, program studi, dosen, prestasi mahasiswa, dan kontak. Aplikasi ini diharapkan dapat memudahkan mahasiswa, calon mahasiswa, dan pihak lain yang tertarik dengan UPN VETERAN Jawa Timur untuk mendapatkan informasi yang mereka butuhkan.
 
-A few resources to get you started if this is your first Flutter project:
+## Fitur Utama
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Profil Fakultas**: Informasi lengkap mengenai fakultas Ilmu Sosial dan Ilmu Politik di UPN VETERAN Jawa Timur.
+- **Program Studi**: Detail tentang program studi yang ditawarkan di fakultas Ilmu Sosial dan Ilmu Politik.
+- **Dosen**: Informasi mengenai dosen yang mengampu di fakultas Ilmu Sosial dan Ilmu Politik.
+- **Prestasi Mahasiswa**: Update mengenai prestasi mahasiswa di fakultas Ilmu Sosial dan Ilmu Politik.
+- **Kontak**: Informasi kontak penting untuk fakultas Ilmu Sosial dan Ilmu Politik dan program studi yang ada di dalamnya.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Teknologi yang Digunakan
+
+- **Bahasa Pemrograman**: Dart
+- **IDE**: Visual Studio Code
+
+## Tim Pengembang
+
+- **Rayhan Cahyo Aji Nugroho** - [ami662744@gmail.com]
